@@ -1,11 +1,80 @@
-da_core_news_sm
-de_core_news_sm
-nl_core_news_sm
-el_core_news_sm
-it_core_news_sm
-ja_core_news_sm
-nb_core_news_sm
-pl_core_news_sm
-pt_core_news_sm
-ro_core_news_sm
-es_core_news_sm
+atomicwrites==1.4.0
+attrs==21.2.0
+beautifulsoup4==4.9.3
+blis==0.7.4
+breadability==0.1.20
+bs4==0.0.1
+catalogue==2.0.4
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+colorama==0.4.4
+cymem==2.0.5
+Cython==0.29.14
+da-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/da_core_news_sm-3.0.0/da_core_news_sm-3.0.0-py3-none-any.whl
+dartsclone==0.9.0
+de-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.0.0/de_core_news_sm-3.0.0-py3-none-any.whl
+docopt==0.6.2
+el-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/el_core_news_sm-3.0.0/el_core_news_sm-3.0.0-py3-none-any.whl
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.0.0/es_core_news_sm-3.0.0-py3-none-any.whl
+Flask==1.1.2
+fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.0.0/fr_core_news_sm-3.0.0-py3-none-any.whl
+gensim==3.8.3
+gensim-sum-ext==0.1.2
+idna==2.10
+importlib-metadata==4.0.1
+iniconfig==1.1.1
+it-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/it_core_news_sm-3.0.0/it_core_news_sm-3.0.0-py3-none-any.whl
+itsdangerous==1.1.0
+ja-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.0.0/ja_core_news_sm-3.0.0-py3-none-any.whl
+Jinja2==2.11.3
+joblib==1.0.1
+langdetect==1.0.7
+lxml==4.6.3
+MarkupSafe==1.1.1
+murmurhash==1.0.5
+nb-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/nb_core_news_sm-3.0.0/nb_core_news_sm-3.0.0-py3-none-any.whl
+nl-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/nl_core_news_sm-3.0.0/nl_core_news_sm-3.0.0-py3-none-any.whl
+nltk==3.6.2
+numpy==1.20.2
+packaging==20.9
+pathy==0.5.2
+pl-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-3.0.0/pl_core_news_sm-3.0.0-py3-none-any.whl
+pluggy==0.13.1
+preshed==3.0.5
+pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.0.0/pt_core_news_sm-3.0.0-py3-none-any.whl
+py==1.10.0
+pycorenlp==0.3.0
+pycountry==20.7.3
+pydantic==1.7.3
+pyparsing==2.4.7
+pytest==6.2.4
+regex==2021.4.4
+requests==2.25.1
+ro-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ro_core_news_sm-3.0.0/ro_core_news_sm-3.0.0-py3-none-any.whl
+scipy==1.6.3
+six==1.16.0
+smart-open==3.0.0
+sortedcontainers==2.1.0
+soupsieve==2.2.1
+spacy==3.0.6
+spacy-langdetect==0.1.2
+spacy-legacy==3.0.5
+spacy-pkuseg==0.0.28
+srsly==2.4.1
+SudachiDict-core==20201223.post1
+SudachiPy==0.5.2
+sumy==0.8.1
+thinc==8.0.3
+toml==0.10.2
+tqdm==4.60.0
+typer==0.3.2
+typing-extensions==3.10.0.0
+urllib3==1.26.4
+wasabi==0.8.2
+Werkzeug==1.0.1
+wincertstore==0.2
+xx-ent-wiki-sm @ https://github.com/explosion/spacy-models/releases/download/xx_ent_wiki_sm-3.0.0/xx_ent_wiki_sm-3.0.0-py3-none-any.whl
+zh-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.0.0/zh_core_web_sm-3.0.0-py3-none-any.whl
+zipp==3.4.1
